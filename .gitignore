@@ -1,0 +1,6 @@
+*.ipynb
+*.app
+*.swp
+__pycache_/
+.DS_Store
+.ipynb_checkpoints/
