@@ -1,4 +1,3 @@
-*.ipynb
 *.app
 *.swp
 __pycache_/
